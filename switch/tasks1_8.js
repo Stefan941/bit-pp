@@ -40,7 +40,7 @@ switch (input) {
 
 //Task 2
 
-var input = 8
+var input = 9
 
 switch (input) {
     case 1: {
@@ -72,7 +72,7 @@ switch (input) {
         break;
     }
     default: {
-        console.log("Input must be a number between and 7");
+        console.log("Input must be a number between 1 and 7");
     }
 }
 
