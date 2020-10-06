@@ -23,5 +23,6 @@ switch (input) {
         console.log("Failed");
         break;
     }
+    default: 
 
 }
