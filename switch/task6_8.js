@@ -1,6 +1,6 @@
 //Task 6
 
-var input = "C"
+var input = "Z"
 
 switch (input) {
     case "A": {
@@ -23,6 +23,8 @@ switch (input) {
         console.log("Failed");
         break;
     }
-    default: 
+    default: {
+        console.log("Unknown grade");
+    }
 
 }
