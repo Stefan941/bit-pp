@@ -34,7 +34,7 @@ console.log(niz3[6])
 
 var niz24 = [[1, 2, 24], [8, 11, 9, 4], [7, 0, 7, 27], [7, 4, 28, 14], [3, 10, 26, 7]];
 
-console.log(niz24[2])
-console.log(niz24[1][3])
+console.log(niz24[0])
+console.log(niz24[0][2])
 
 
