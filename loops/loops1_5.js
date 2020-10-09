@@ -67,7 +67,15 @@ console.log("Iznos1:" + zbir)
 console.log("Iznos2:" + proizvod)
 
 
+//exemple dofactory
 
+var sum = 0;
+var number = 1;
+while (number <= 50) {  // -- condition
+    sum += number;        // -- body
+    number++;             // -- updater
+}
+console.log("Sum = " + sum);  // => Sum = 1275
 
 
 
