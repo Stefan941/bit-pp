@@ -1,6 +1,6 @@
 //Task 3
 
-var input = 2
+var input = 6
 
 switch (input) {
     case 1:
