@@ -10,8 +10,8 @@ var velika = input.split("").map(function (el, i) {
     } else {
         return el
     }
-})
-console.log(velika.join(""))
+}).join("")
+console.log(velika)
 
 
 //Sva velika slova pretvoriti u zvezdice
@@ -29,5 +29,5 @@ console.log(zvezdice)
 
 //Izmedju dve zvezdice udariti space
 
-// var razmak = zvezdice.split("**").join("* *")
-// console.log(razmak)
+var razmak = zvezdice.split("**").join("* *")
+console.log(razmak)
